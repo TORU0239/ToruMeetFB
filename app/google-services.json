@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1052835603727",
+    "firebase_url": "https://torumeetfb.firebaseio.com",
+    "project_id": "torumeetfb",
+    "storage_bucket": "torumeetfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052835603727:android:bda00c85fc61ece7",
+        "android_client_info": {
+          "package_name": "my.com.toru.torumeetfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052835603727-sp0ltfi1ro6gh989mdanklniar0slgvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.toru.torumeetfb",
+            "certificate_hash": "3b60262d1b1b28ec388e9257dd710153ede829c2"
+          }
+        },
+        {
+          "client_id": "1052835603727-kpton8v7pql57c50kb5il4cprb5bvf2s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1052835603727-kpton8v7pql57c50kb5il4cprb5bvf2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXiKqOlBbtVFlCYfvB97PFZP7vzNY2d_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052835603727-kpton8v7pql57c50kb5il4cprb5bvf2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
