@@ -8,4 +8,22 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="AppSecondTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryForSecond</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkForSecond</item>
+        <item name="colorAccent">@color/colorAccentForSecond</item>
+    </style>
+
+    <style name="InitTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">@color/colorAccentForSecond</item>
+    </style>
+
+    <style name="SecondActivityTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#FF9800</item>
+        <item name="colorPrimaryDark">#F57C00</item>
+        <item name="colorAccent">#009688</item>
+    </style>
 </resources>
